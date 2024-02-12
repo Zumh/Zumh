@@ -1,11 +1,12 @@
-### Hello there 👋
+### Hello there 👋 I'm Zumh
+- zumhliansang@live.ca
 
-#### A Full-Stack Developer by day ☼ and a Laravel Community Contributor by night ☾
-
-Full-Stack Developer at [Medicare](https://medicare.pt?ref=github-caneco);<br>
-Host/Organizing [Laracon EU](https://laracon.eu?ref=github-caneco);<br>
-
+#### A Full-Stack Developer
+- Currently learning Full Stack Open web dev from University of Helsinki
+- I help solve problems and mentor in Exercism
+- My next goals are to learn low level, system programming and A.I
+  
 - ⚙️ I use daily: `.python`, `.js`, `.rust`, `.c/cpp`, `.sql`
-- 🌍 I'm mostly active within the **Laravel Community**
-- 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc…
-- 💬 `ping` me about **design**, **branding**, **laravel**, **development**, **design thinking**
+- 🌍 I'm mostly active within the **Exercism Community** and University of Helsinki web dev
+- 💅 etc…
+- 💬 `ping` me about **Cyber Security**, **Backend**, **Rust**, **development**, **A.I**

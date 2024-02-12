@@ -2,7 +2,7 @@
 - zumhliansang@live.ca
 
 #### A Full-Stack Developer
-- Currently learning Full Stack Open web dev from (University of Helsinki)[https://fullstackopen.com/en/]
+- Currently learning Full Stack Open web dev from [University of Helsinki](https://fullstackopen.com/en/)
 - I help solve problems and mentor in Exercism
 - My next goals are to learn low level, system programming and A.I
   

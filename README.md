@@ -1,4 +1,4 @@
-### Hello there 👋 I'm Zumh
+### Hello 👋 I'm Zumh
 - zumhliansang@live.ca
 
 #### A Full-Stack Developer

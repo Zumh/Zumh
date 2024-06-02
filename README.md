@@ -9,4 +9,4 @@
 - ⚙️ I use daily: `.python`, `.js`, `.rust`, `.c/cpp`, `.sql`
 - 🌍 I'm mostly active within the **Exercism Community** and University of Helsinki web dev
 - 💅 etc…
-- 💬 `ping` me about **Cyber Security**, **Backend**, **Rust**, **development**, **A.I**
+- 💬 `ping` me about **Cyber Security**, **Backend**, **Rust**, **development**, **Deep Learning**

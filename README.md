@@ -1,7 +1,7 @@
 ### Hello 👋 I'm Lian
 - Email: zumhliansang@live.ca
-- Resume: [resume](https://zumh.github.io/zumhller/zumhliansang_lungler_resume.pdf)
-- Portfolio: [zumh.github.io/zumhller](https://zumh.github.io/zumhller/)
+- Resume: <a href="https://zumh.github.io/zumhller/zumhliansang_lungler_resume.pdf" target="_blank">resume</a>
+- Portfolio: <a href="https://zumh.github.io/zumhller/" target="_blank">zumh.github.io/zumhller</a>
 
 #### A Full-Stack Developer
 - Currently learning Full Stack Open web dev from [University of Helsinki](https://fullstackopen.com/en/)

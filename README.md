@@ -3,8 +3,9 @@
 - Resume: <a href="https://zumh.github.io/zumhller/zumhliansang_lungler_resume.pdf" target="_blank">resume</a>
 - Portfolio: <a href="https://zumh.github.io/zumhller/" target="_blank">zumh.github.io</a>
 
-#### A Full-Stack Developer
+#### Software Developer
 - Currently learning Full Stack Open web dev from [University of Helsinki](https://fullstackopen.com/en/)
+- Learning low level ARM assembly/system programming from Conestoga College
 - I help solve problems and mentor in Exercism
 - My next goals are to learn low level, system programming and Deep Learning
   

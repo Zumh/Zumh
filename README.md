@@ -1,6 +1,6 @@
 ### Hello 👋 I'm Lian
 - Email: zumhliansang@live.ca
-- Resume: [LianResume](https://zumh.github.io/files/ller.pdf)
+- Resume: <a href="https://zumh.github.io/files/ller.pdf" target="_blank">Resume</a>
 - Portfolio: <a href="https://zumh.github.io" target="_blank">zumh.github.io</a>
 
 #### Software Developer
